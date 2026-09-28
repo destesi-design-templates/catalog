@@ -1,0 +1,13 @@
+{
+  "id": "catalog",
+  "name": "Catalog",
+  "description": "A dark welcome band, a dense four-column catalog with category chips, a featured row and a how-to-buy panel.",
+  "best_for": "Large catalogs, parts and supplies",
+  "backend": "commerce",
+  "es": {
+    "name": "Catálogo",
+    "description": "Una franja oscura de bienvenida, un catálogo denso de cuatro columnas con categorías, una fila de destacados y cómo comprar.",
+    "best_for": "Catálogos grandes, repuestos e insumos"
+  },
+  "hero_compact": true
+}
